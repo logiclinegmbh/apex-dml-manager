@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "apex-dml-manager",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "apex-dml-manager": "0Ho2o000000TN4dCAG",
+        "apex-dml-manager@0.1.0-1": "04t2o000001Aw7DAAS"
+    }
+}
